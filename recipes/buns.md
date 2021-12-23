@@ -1,6 +1,6 @@
 # BurgerDAO Potato Buns
 
-<em>Makes 12 rolls</em>
+<em>Makes 12 buns</em>
 
 •	600g all-purpose flour
 
